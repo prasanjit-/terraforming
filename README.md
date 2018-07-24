@@ -2,8 +2,7 @@
 
 - Generate Terraform Templates of an existing AWS Infrastructure
 
-Terraforming Docker Image is available at servergurus/terraforming
-https://hub.docker.com/r/servergurus/terraforming/
+Terraforming Docker Image is available at https://hub.docker.com/r/servergurus/terraforming/
 
 - Pull the Docker image:
 ```
